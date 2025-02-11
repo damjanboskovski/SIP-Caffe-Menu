@@ -3,9 +3,7 @@ import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-nonalcoholic-card',
-  imports: [
-    NgClass,
-  ],
+  imports: [],
   templateUrl: './nonalcoholic-card.component.html',
   styleUrl: './nonalcoholic-card.component.scss'
 })

@@ -8,7 +8,7 @@ import { HomePageComponent } from './components/pages/home-page/home-page.compon
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavBarComponent, FootBarComponent,],
+  imports: [RouterOutlet, NavBarComponent,],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
   providers: [{provide : LocationStrategy, useClass: HashLocationStrategy}]
