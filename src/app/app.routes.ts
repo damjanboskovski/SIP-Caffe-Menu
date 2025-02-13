@@ -20,6 +20,8 @@ import { WhiskeyPageComponent } from './components/pages/whiskey-page/whiskey-pa
 import { VodkaPageComponent } from './components/pages/vodka-page/vodka-page.component';
 import { GinPageComponent } from './components/pages/gin-page/gin-page.component';
 import { VermuthPageComponent } from './components/pages/vermuth-page/vermuth-page.component';
+import { EnergyPageComponent } from './components/pages/energy-page/energy-page.component';
+import { HotDrinksPageComponent } from './components/pages/hot-drinks-page/hot-drinks-page.component';
 
 export const routes: Routes = [
     {
@@ -101,6 +103,14 @@ export const routes: Routes = [
     {
         path: 'vermuth-page',
         component: VermuthPageComponent,
+    },
+    {
+        path: 'energy-page',
+        component: EnergyPageComponent,
+    },
+    {
+        path: 'hot-drinks-page',
+        component: HotDrinksPageComponent,
     }
 ];
 
