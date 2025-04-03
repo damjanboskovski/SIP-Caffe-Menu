@@ -1,0 +1,192 @@
+{
+    "ui": {
+        "language_settings": "Language",
+
+        "languages": {
+            "en": "English",
+            "mk": "Macedonian"
+        }
+    },
+    "foot_bar":{
+        "creator" : "Created by:",
+        "name" : "Damjan Boshkovski"
+    },
+    "home_page": {
+        "non_alcoholic": "Non-Alcoholic Beverages",
+        "alcoholic": "Alcoholic Beverages",
+        "location": "Location"
+    },
+    "nonalcoholic_page":{
+        "coffee" : "Coffee",
+        "decoffee" : "Decaf Coffee",
+        "water" : "Water",
+        "freshjuice" : "Fresh Juice",
+        "juice" : "Juices",
+        "hotdrinks" : "Hot Drinks",
+        "energydrinks" : "Energy Drinks"
+    },
+    "coffe_page":{
+        "espresso" : "Espresso",
+        "double_espresso" : "Double Espresso",
+        "small_macchiato" : "Small Macchiato",
+        "big_macchiato" : "Big Macchiato",
+        "cappuccino" : "Cappuccino",
+        "latte" : "Latte",
+        "irish" : "Irish Coffee",
+        "nes" : "Nescafe",
+        "nes_latte" : "Nescafe Latte",
+        "fredo_espresso" : "Fredo Espresso",
+        "fredo_cappuccino" : "Fredo Cappuccino"
+    },
+    "decaf_page":{
+        "espresso" : "Espresso",
+        "small_macchiato" : "Small Macchiato",
+        "big_macchiato" : "Big Macchiato",
+        "cappuccino" : "Cappuccino"
+    },
+    "water_page":{
+        "small_rosa" : "Rosa 0.33",
+        "big_rosa" : "Rosa 0.75",
+        "sparkling_small" : "Sparkling 0.33",
+        "sparkling_big" : "Sparkling 0.75"
+    },
+    "scjuice_page":{
+        "orange" : "Orange",
+        "lemon" : "Lemon",
+        "mix" : "Mix"
+    },
+    "soda_page":{
+        "cola" : "Coca Cola / Zero",
+        "tonic": "Schweppes Tonic",
+        "bitter": "Schweppes Bitter",
+        "orange" : "Schweppes Tangerine",
+        "sprite" : "Sprite",
+        "fanta" : "Fanta",
+        "next" : "Next",
+        "san" : "San-Pellegrino",
+        "icetea" : "Ice Tea",
+        "cedevita" : "Cedevita"
+    },
+    "hot_drinks_page":{
+        "tea" : "Tea",
+        "cocoa" : "Cocoa",
+        "salep" : "Salep",
+        "chocolate" : "Hot Chocolate"
+    },
+    "energy_page": {
+        "redbull" : "Red-Bull"
+    },
+    "alcoholic_page": {
+        "beer" : "Beer",
+        "brandy" : "Brandy",
+        "cognac" : "Cognac",
+        "rum" : "Rum",
+        "liker" : "Liker",
+        "digestive" : "Digestive",
+        "whiskey" : "Whiskey",
+        "vodka" : "Vodka",
+        "gin" : "Gin",
+        "vermuth" : "Vermuth",
+        "cocktails" : "Cocktails",
+        "wine": "Wine",
+        "other": "Other"
+    },
+    "beer_page":{
+        "skopsko" : "Skopsko / Smooth",
+        "skopsko_draft_small" : "Skopsko Draft 0.33",
+        "skopsko_draft_big" : "Skopsko Draft 0.5",
+        "amstel" : "Amstel",
+        "haineken" : "Heineken",
+        "corona" : "Corona"
+    },
+    "brandy_page":{
+        "stock": "Stock"
+    },
+    "cognac_page":{
+        "badel": "Badel"
+    },
+    "rum_page":{
+        "captain": "Captain Morgan"
+    },
+    "liker_page":{
+        "baileys": "Baileys",
+        "campari": "Campari"
+    },
+    "degistive_page":{
+        "pelin" : "Pelinkovac",
+        "jeger" : "Jegermeister"
+    },
+    "whiskey_page":{
+        "jameson": "Jameson",
+        "walker_red": "Johnnie Walker Red",
+        "walker_black": "Johnnie Walker Black",
+        "walker_gold": "Johnnie Walker Gold",
+        "jb": "JB",
+        "balentine": "Ballantines",
+        "bushmils": "Bushmills",
+        "almost_arrested": "Four Rouses",
+        "chivas": "Chivas",
+        "chivas_f": "Chivas 15",
+        "jack": "Jack Daniels",
+        "jack_honey": "Jack Daniels Honey",
+        "jack_apple": "Jack Daniels Apple",
+        "tulamur": "Tullamore",
+        "jim": "Jim Beam"
+    },
+    "vodka_page":{
+        "smirnof": "Smirnoff Red",
+        "absolut": "Absolut",
+        "gray": "Gray Goose"
+    },
+    "gin_page":{
+        "gordons": "Gordon's",
+        "beefeater": "Beefeater",
+        "bombay": "Bombay",
+        "tanqueray": "Tanqueray",
+        "hendricks": "Hendricks"
+    },
+    "vermuth_page":{
+        "bianco" : "Martini Bianco",
+        "rosso" : "Martini Rosso"
+    },
+    "cocktails_page":{
+        "long": "Long Island",
+        "wsour": "Whiskey Sour",
+        "asour": "Amaretto Sour",
+        "vsour": "Vodka Sour",
+        "gsour": "Gin Sour",
+        "apsour": "Aperol Sour",
+        "tom": "Tom Collins",
+        "mohito": "Mohito",
+        "aperol": "Aperol Spritz",
+        "cuba": "Cuba Libre",
+        "old": "Old Fashioned",
+        "margarita": "Margarita",
+        "kaipiroshka": "Caipiroska",
+        "kaipirina": "Caipirinha",
+        "brussian": "Black Russian",
+        "wrussian": "White Russian",
+        "manhattan": "Manhattan",
+        "campari": "Campari Spritz",
+        "bramble": "Bramble",
+        "cosmopolitan": "Cosmopolitan",
+        "smargarita": "Spicy Margarita",
+        "gfather": "Godfather",
+        "vmartini": "Vodka Martini",
+        "emartini": "Espresso Martini",
+        "negroni": "Negroni",
+        "noalcohol": "Virgin Cocktail"
+    },
+    "wine_page":{
+        "heat": "Heated Red Wine",
+        "temjanika": "Temjanika",
+        "traminec": "Traminec",
+        "aclassic": "Alexandria Classic White",
+        "acuve": "Alexandria Cuvee White",
+        "aclassicr": "Alexandria Classic Red",
+        "acuver": "Alexandria Cuvee Red",
+        "tga": "T'GA",
+        "wdraft": "Draft White Wine",
+        "rdraft": "Draft Red Wine"
+    }
+}

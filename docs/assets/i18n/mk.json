@@ -1,0 +1,182 @@
+{
+    "ui": {
+        "language_settings": "Јазик",
+
+        "languages": {
+            "en": "Англиски",
+            "mk": "Македонски"
+        }
+    },
+    "foot_bar":{
+        "creator" : "Креирано од:",
+        "name" : "Дамјан Бошковски"
+    },
+    "home_page":{
+        "non_alcoholic" : "Безалкохолни Пијалоци",
+        "alcoholic" : "Алкохолни Пијалоци",
+        "location" : "Локација"
+    },
+    "nonalcoholic_page":{
+        "coffee" : "Кафе",
+        "decoffee" : "Без Кофеинско Кафе",
+        "water" : "Вода",
+        "freshjuice" : "Цедени Сокови",
+        "juice" : "Сокови",
+        "hotdrinks" : "Топли Напитоци",
+        "energydrinks" : "Енергетски Пијалоци"
+    },
+    "coffe_page":{
+        "espresso" : "Еспресо",
+        "double_espresso" : "Дупло Еспресо",
+        "small_macchiato" : "Мало Макијато",
+        "big_macchiato" : "Големо Макијато",
+        "cappuccino" : "Капучино",
+        "latte" : "Лате",
+        "irish" : "Ирско Кафе",
+        "nes" : "Нес Кафе",
+        "nes_latte" : "Нес Кафе Вкус",
+        "fredo_espresso" : "Фредо Еспресо",
+        "fredo_cappuccino" : "Фредо Капучино"
+    },
+    "decaf_page":{
+        "espresso" : "Еспресо",
+        "small_macchiato" : "Мало Макијато",
+        "big_macchiato" : "Големо Макијато",
+        "cappuccino" : "Капучино"
+    },
+    "water_page":{
+        "small_rosa" : "Роса 0.33",
+        "big_rosa" : "Роса 0.75",
+        "sparkling_small" : "Газирана 0.33",
+        "sparkling_big" : "Газирана 0.75"
+    },
+    "scjuice_page":{
+        "orange" : "Портокал",
+        "lemon" : "Лимон",
+        "mix" : "Микс"
+    },
+    "soda_page":{
+        "cola" : "Кока Кола / Зеро",
+        "tonic": "Швепс Тоник",
+        "bitter": "Швепс Битер",
+        "orange" : "Швепс Танџерин",
+        "sprite" : "Спрајт",
+        "fanta" : "Фанта",
+        "next" : "Некст Густ Сок",
+        "san" : "Сан-Пелегрино",
+        "icetea" : "Ледена Чај",
+        "cedevita" : "Цедевита"
+    },
+    "hot_drinks_page":{
+        "tea" : "Чај",
+        "cocoa" : "Какао",
+        "salep" : "Салеп",
+        "chocolate" : "Топло Чоколадо"
+    },
+    "energy_page": {
+        "redbull" : "Ред-Бул"
+    },
+    "alcoholic_page": {
+        "beer" : "Пиво",
+        "brandy" : "Бренди",
+        "cognac" : "Коњак",
+        "rum" : "Рум",
+        "liker" : "Ликер",
+        "digestive" : "Дигестиви",
+        "whiskey" : "Виски",
+        "vodka" : "Вотка",
+        "gin" : "Џин",
+        "vermuth" : "Вермут",
+        "cocktails" : "Коктели",
+        "wine": "Вино",
+        "other": "Останато"
+    },
+    "beer_page":{
+        "skopsko" : "Скопско / Смут",
+        "skopsko_draft_small" : "Скопско Точено 0.33",
+        "skopsko_draft_big" : "Скопско Точено 0.5",
+        "amstel" : "Амстел",
+        "haineken" : "Хајнекен",
+        "corona" : "Коронa"
+    },
+    "brandy_page":{
+        "stock": "Шток"
+    },
+    "cognac_page":{
+        "badel": "Бадел"
+    },
+    "rum_page":{
+        "captain": "Капетан Морган"
+    },
+    "liker_page":{
+        "baileys": "Бејлис",
+        "campari": "Кампари"
+    },
+    "degistive_page":{
+        "pelin" : "Пелинковац",
+        "jeger" : "Јегермаистер"
+    },
+    "whiskey_page":{
+        "jameson": "Џејмисон",
+        "walker_red": "Џони Волкер Ред",
+        "walker_black": "Џони Волкер Блек",
+        "walker_gold": "Џони Волкер Голд",
+        "jb": "ЏБ",
+        "balentine": "Балентајн",
+        "bushmils": "Бушмилс",
+        "almost_arrested": "Фоур Роузес",
+        "chivas": "Чивас",
+        "chivas_f": "Чивас 15",
+        "jack": "Џек Даниелс",
+        "jack_honey": "Џек Даниелс Хани",
+        "jack_apple": "Џек Даниелс Апле",
+        "tulamur": "Туламур",
+        "jim": "Џим Бим"
+    },
+    "vodka_page":{
+        "smirnof": "Смирноф Ред",
+        "absolut": "Абсолут",
+        "gray": "Грејгус"
+    },
+    "gin_page":{
+        "gordons": "Гордонс",
+        "beefeater": "Бифитер",
+        "bombay": "Бомбај",
+        "tanqueray": "Танкерај",
+        "hendricks": "Хендрикс"
+    },
+    "vermuth_page":{
+        "bianco" : "Мартини Бјанко",
+        "rosso" : "Мартини Росо"
+    },
+    "cocktails_page":{
+        "long": "Лонг Ајленд",
+        "wsour": "Виски Саур",
+        "asour": "Амарето Саур",
+        "vsour": "Водка Саур",
+        "gsour": "Гин Саур",
+        "apsour": "Аперол Саур",
+        "tom": "Том Колинс",
+        "mohito": "Мохито",
+        "aperol": "Аперол Шприц",
+        "cuba": "Куба Либре",
+        "old": "Олд Фешн",
+        "margarita": "Маргарита",
+        "kaipiroshka": "Каипирошка",
+        "kaipirina": "Каипириња",
+        "brussian": "Блек Рашн",
+        "wrussian": "Вајт Рашн",
+        "manhattan": "Менхатен",
+        "campari": "Кампари Шприц",
+        "bramble": "Брамбл",
+        "cosmopolitan": "Космополитан",
+        "smargarita": "Спајси Маргарита",
+        "gfather": "Готфадер",
+        "vmartini": "Водка Мартини",
+        "emartini": "Еспресо Мартини",
+        "negroni": "Негрони",
+        "noalcohol": "Безалкохолен коктел"
+    }
+
+}
+
