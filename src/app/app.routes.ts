@@ -22,6 +22,8 @@ import { GinPageComponent } from './components/pages/gin-page/gin-page.component
 import { VermuthPageComponent } from './components/pages/vermuth-page/vermuth-page.component';
 import { EnergyPageComponent } from './components/pages/energy-page/energy-page.component';
 import { HotDrinksPageComponent } from './components/pages/hot-drinks-page/hot-drinks-page.component';
+import { CocktailsPageComponent } from './components/pages/cocktails-page/cocktails-page.component';
+import { WinePageComponent } from './components/pages/wine-page/wine-page.component';
 
 export const routes: Routes = [
     {
@@ -111,6 +113,14 @@ export const routes: Routes = [
     {
         path: 'hot-drinks-page',
         component: HotDrinksPageComponent,
+    },
+    {
+        path: 'cocktails-page',
+        component: CocktailsPageComponent,
+    },
+    {
+        path: 'wine-page',
+        component: WinePageComponent,
     }
 ];
 

@@ -4,9 +4,9 @@
         <div class="bg-white rounded-full p-1">
             <img class="w-[3rem]"
                 [src] = "imgPath"
-                [alt] = "title">
+                [alt] = "titleTranslationKey">
         </div>
-        <div class="text-white font-semibold text-base">{{title}}</div>
+        <div class="text-white font-semibold text-base">{{titleTranslationKey | translate}}</div>
         <div class="text-white font-semibold text-base">{{price}} ден.</div>
     </div>
 </div>

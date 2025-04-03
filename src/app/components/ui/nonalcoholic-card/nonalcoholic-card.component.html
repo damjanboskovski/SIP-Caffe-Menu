@@ -4,12 +4,12 @@
             <div class="p-[0.1px] flex justify-center">
                 <img class="rounded-xl w-[4rem]" 
                     [src] = "imgPath"
-                    [alt] = "title">
+                    [alt] = "titleTranslationKey">
             </div>
         </div>
         <div class="bg-white rounded-full p-2 text-center shadow-2xl w-[50%]">
             <div class="text-base font-bold text-[#262525] text-xs">
-                {{title}}
+                {{ titleTranslationKey | translate }}
             </div>
         </div>
     </div>
