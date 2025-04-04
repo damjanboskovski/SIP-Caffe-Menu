@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-    i18nPath: '/assets/i18n/',
+    i18nPath: './assets/i18n/',
     dbVersion: 1,
 };
