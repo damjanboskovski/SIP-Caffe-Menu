@@ -177,16 +177,175 @@
         "negroni": "Negroni",
         "noalcohol": "Virgin Cocktail"
     },
+    "cocktails_card":{
+        "ingredients": "Ingredients",
+        "close": "Close"
+    },
     "wine_page":{
         "heat": "Heated Red Wine",
         "temjanika": "Temjanika",
         "traminec": "Traminec",
-        "aclassic": "Alexandria Classic White",
-        "acuve": "Alexandria Cuvee White",
-        "aclassicr": "Alexandria Classic Red",
-        "acuver": "Alexandria Cuvee Red",
+        "aclassic": "Alexandria Classic",
+        "acuve": "Alexandria Cuvee",
+        "aclassicr": "Alexandria Classic",
+        "acuver": "Alexandria Cuvee",
         "tga": "T'GA",
-        "wdraft": "Draft White Wine",
-        "rdraft": "Draft Red Wine"
+        "wdraft": "White Wine",
+        "rdraft": "Red Wine",
+        "white" : "White Wine",
+        "red" : "Red Wine",
+        "draft": "Draft Wine"
+    },
+    "location_page":{
+        "workh": "Working Hours",
+        "mon" : "Monday - Thursday",
+        "fri" : "Friday - Saturday",
+        "sun" : "Sunday"
+    },
+    "longisland":{
+        "descOne" : "Vodka 20 ml",
+        "descTwo": "White Rum 20 ml",
+        "descThree": "Tequila 20 ml",
+        "descFour": "Gin 20 ml",
+        "descFive": "Triple Sec 20 ml",
+        "descSix": "Lemon Juice 40 ml",
+        "descSeven": "Coca Cola"
+    },
+    "wsour":{
+        "descOne" : "Whiskey 40 ml",
+        "descTwo": "Lemon Juice 40 ml",
+        "descThree": "Simple Syrup 20 ml",
+        "descFour": "Egg White"
+    },
+    "asour":{
+        "descOne" : "Amaretto 40 ml",
+        "descTwo": "Lemon Juice 40 ml",
+        "descThree": "Simple Syrup 20 ml",
+        "descFour": "Egg White"
+    },
+    "vsour":{
+        "descOne" : "Vodka 40 ml",
+        "descTwo": "Lemon Juice 40 ml",
+        "descThree": "Simple Syrup 20 ml",
+        "descFour": "Egg White"
+    },
+    "gsour":{
+        "descOne" : "Gin 40 ml",
+        "descTwo": "Lemon Juice 40 ml",
+        "descThree": "Simple Syrup 20 ml",
+        "descFour": "Egg White"
+    },
+    "apsour":{
+        "descOne" : "Aperol 40 ml",
+        "descTwo": "Lemon Juice 40 ml",
+        "descThree": "Simple Syrup 20 ml",
+        "descFour": "Egg White"
+    },
+    "tom":{
+        "descOne" : "Gin 40 ml",
+        "descTwo": "Lemon Juice 40 ml",
+        "descThree": "Simple Syrup 10 ml",
+        "descFour": "Sparkling Water"
+    },
+    "mohito":{
+        "descOne" : "White Rum 40 ml",
+        "descTwo": "Lime",
+        "descThree": "Brown Sugar 2 tsp",
+        "descFour": "Mint Leaves",
+        "descFive": "Sparkling Water"
+    },
+    "aperol":{
+        "descOne" : "Aperol 40 ml",
+        "descTwo": "Sparkling Wine 100 ml",
+        "descThree": "Sparkling Water 50 ml",
+        "descFour": "Orange Slice"
+    },
+    "cuba":{
+        "descOne" : "White Rum 40 ml",
+        "descTwo": "Lemon Juice 20 ml",
+        "descThree": "Coca Cola"
+    },
+    "old":{
+        "descOne" : "Whiskey 40 ml",
+        "descTwo": "Brown Sugar 1 tsp",
+        "descThree": "Water 2 tsp",
+        "descFour": "Angostura Bitters"
+    },
+    "margarita":{
+        "descOne" : "Tequila 40 ml",
+        "descTwo": "Triple Sec 20 ml",
+        "descThree": "Lime Juice 20 ml",
+        "descFour": "Salt"
+    },
+    "kaipiroshka":{
+        "descOne" : "Vodka 40 ml",
+        "descTwo": "Lime",
+        "descThree": "Brown Sugar 2 tsp",
+        "descFour": "Mint Leaves",
+        "descFive": "Sparkling Water"
+    },
+    "kaipirina":{
+        "descOne" : "White Rum 40 ml",
+        "descTwo": "Lime",
+        "descThree": "Brown Sugar 2 tsp",
+        "descFour": "Mint Leaves",
+        "descFive": "Sparkling Water"
+    },
+    "brussian":{
+        "descOne" : "Vodka 40 ml",
+        "descTwo": "Kahlua 20 ml"
+    },
+    "wrussian":{
+        "descOne" : "Vodka 40 ml",
+        "descTwo": "Kahlua 20 ml",
+        "descThree": "Cream 20 ml"
+    },
+    "manhattan":{
+        "descOne" : "Whiskey 40 ml",
+        "descTwo": "Sweet Vermouth 20 ml",
+        "descThree": "Angostura Bitters"
+    },
+    "campari":{
+        "descOne" : "Campari 40 ml",
+        "descTwo": "Sparkling Wine 100 ml",
+        "descThree": "Soda Water 50 ml"
+    },
+    "bramble":{
+        "descOne" : "Gin 40 ml",
+        "descTwo": "Lemon Juice 20 ml",
+        "descThree": "Simple Syrup 10 ml",
+        "descFour": "Blackberry Liqueur 20 ml"
+    },
+    "cosmopolitan":{
+        "descOne" : "Vodka 40 ml",
+        "descTwo": "Triple Sec 20 ml",
+        "descThree": "Lime Juice 20 ml",
+        "descFour": "Cranberry Juice 20 ml"
+    },
+    "smargarita":{
+        "descOne" : "Tequila 40 ml",
+        "descTwo": "Triple Sec 20 ml",
+        "descThree": "Lime Juice 20 ml",
+        "descFour": "Jalapeno",
+        "descFive": "Salt"
+    },
+    "gfather":{
+        "descOne" : "Whiskey 40 ml",
+        "descTwo": "Amaretto 20 ml"
+    },
+    "vmartini":{
+        "descOne" : "Vodka 40 ml",
+        "descTwo": "Dry Vermouth 20 ml"
+    },
+    "emartini":{
+        "descOne" : "Vodka 40 ml",
+        "descTwo": "Espresso 20 ml",
+        "descThree": "Simple Syrup 10 ml",
+        "descFour": "Kahlua 20 ml"
+    },
+    "negroni":{
+        "descOne" : "Gin 40 ml",
+        "descTwo": "Sweet Vermouth 40 ml",
+        "descThree": "Campari 40 ml"
     }
 }

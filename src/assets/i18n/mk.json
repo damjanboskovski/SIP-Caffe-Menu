@@ -35,7 +35,7 @@
         "irish" : "Ирско Кафе",
         "nes" : "Нес Кафе",
         "nes_latte" : "Нес Кафе Вкус",
-        "fredo_espresso" : "Фредо Еспресо",
+        "fredo_ " : "Фредо Еспресо",
         "fredo_cappuccino" : "Фредо Капучино"
     },
     "decaf_page":{
@@ -154,7 +154,7 @@
         "wsour": "Виски Саур",
         "asour": "Амарето Саур",
         "vsour": "Водка Саур",
-        "gsour": "Гин Саур",
+        "gsour": "Џин Саур",
         "apsour": "Аперол Саур",
         "tom": "Том Колинс",
         "mohito": "Мохито",
@@ -177,18 +177,177 @@
         "negroni": "Негрони",
         "noalcohol": "Безалкохолен коктел"
     },
+    "cocktails_card":{
+        "ingredients": "Состојки",
+        "close": "Затвори"
+    },
     "wine_page":{
         "heat": "Греано Вино",
         "temjanika": "Темјаника",
         "traminec": "Траминец",
-        "aclassic": "Александрија Класик Бело",
-        "acuve": "Александрија Куве Бело",
-        "aclassicr": "Александрија Класик Црвено",
-        "acuver": "Александрија Куве Црвено",
+        "aclassic": "Александрија Класик",
+        "acuve": "Александрија Куве",
+        "aclassicr": "Александрија Класик",
+        "acuver": "Александрија Куве",
         "tga": "Т'ГА",
-        "wdraft": "Налливно Бело Вино",
-        "rdraft": "Наливно Црвено Вино"
+        "wdraft": "Бело Вино",
+        "rdraft": "Црвено Вино",
+        "white": "Бело Вино",
+        "red": "Црвено Вино",
+        "draft": "Наливно Вино"
+    },
+    "location_page":{
+        "workh": "Работно Време",
+        "mon" : "Понеделник - Четврток",
+        "fri" : "Петок - Сабота",
+        "sun" : "Недела"
+    },
+    "longisland":{
+        "descOne" : "Водка 20 мл",
+        "descTwo": "Бел Рум 20 мл",
+        "descThree": "Текила 20 мл",
+        "descFour": "Џин 20 мл",
+        "descFive": "Ликер од Портокал 20 мл",
+        "descSix": "Цеден Лимон 40 мл",
+        "descSeven": "Кока Кола"
+    },
+    "wsour":{
+        "descOne" : "Виски 40 мл",
+        "descTwo": "Цеден Лимон 40 мл",
+        "descThree": "Шербет 20 мл",
+        "descFour": "Белка од Јајце"
+    },
+    "asour":{
+        "descOne" : "Амарто 40 мл",
+        "descTwo": "Цеден Лимон 40 мл",
+        "descThree": "Шербет 20 мл",
+        "descFour": "Белка од Јајце"
+    },
+    "vsour":{
+        "descOne" : "Водка 40 мл",
+        "descTwo": "Цеден Лимон 40 мл",
+        "descThree": "Шербет 20 мл",
+        "descFour": "Белка од Јајце"
+    },
+    "gsour":{
+        "descOne" : "Џин 40 мл",
+        "descTwo": "Цеден Лимон 40 мл",
+        "descThree": "Шербет 20 мл",
+        "descFour": "Белка од Јајце"
+    },
+    "apsour":{
+        "descOne" : "Аперол 40 мл",
+        "descTwo": "Цеден Лимон 40 мл",
+        "descThree": "Шербет 20 мл",
+        "descFour": "Белка од Јајце"
+    },
+    "tom":{
+        "descOne" : "Џин 40 мл",
+        "descTwo": "Цеден Лимон 40 мл",
+        "descThree": "Шербет 10 мл",
+        "descFour": "Газирана Вода"
+    },
+    "mohito":{
+        "descOne" : "Бел Рум 40 мл",
+        "descTwo": "Лимета",
+        "descThree": "Кафеав Шеќер 2 лажички",
+        "descFour": "Ливчиња од Нане",
+        "descFive": "Газирана Вода"
+    },
+    "aperol":{
+        "descOne" : "Aperol 40 мл",
+        "descTwo": "Пенливо Вино 100 мл",
+        "descThree": "Газирана Вода 50 мл"
+    },
+    "cuba":{
+        "descOne" : "Бел Рум 40 мл",
+        "descTwo": "Цеден Лимон 20 мл",
+        "descThree": "Кока Кола"
+    },
+    "old":{
+        "descOne" : "Виски 40 мл",
+        "descTwo": "Кафеав Шеќер 1 лажичка",
+        "descThree": "Вода 2 лажички",
+        "descFour": "Angostura Bitters"
+    },
+    "margarita":{
+        "descOne" : "Текила 40 мл",
+        "descTwo": "Ликер од Портокал 20 мл",
+        "descThree": "Сок од Лимета 20 мл",
+        "descFour": "Сол"
+    },
+    "kaipiroshka":{
+        "descOne" : "Водка 40 мл",
+        "descTwo": "Лимета",
+        "descThree": "Кафеав Шеќер 2 лажички",
+        "descFour": "Ливчиња од Нане",
+        "descFive": "Газирана Вода"
+    },
+    "kaipirina":{
+        "descOne" : "Бел Рум 40 мл",
+        "descTwo": "Лимета",
+        "descThree": "Кафеав Шеќер 2 лажички",
+        "descFour": "Ливчиња од Нане",
+        "descFive": "Газирана Вода"
+    },
+    "brussian":{
+        "descOne" : "Водка 40 мл",
+        "descTwo": "Калуа 20 мл"
+    },
+    "wrussian":{
+        "descOne" : "Водка 40 мл",
+        "descTwo": "Калуа 20 мл",
+        "descThree": "Хопла 20 мл"
+    },
+    "manhattan":{
+        "descOne" : "Виски 40 мл",
+        "descTwo": "Вермут 20 мл",
+        "descThree": "Angostura Bitters"
+    },
+    "campari":{
+        "descOne" : "Кампари 40 мл",
+        "descTwo": "Пенливо Вино 100 мл",
+        "descThree": "Газирана Вода 50 мл"
+    },
+    "bramble":{
+        "descOne" : "Џин 40 мл",
+        "descTwo": "Цеден Лимон 20 мл",
+        "descThree": "Шербет 10 мл",
+        "descFour": "Ликер од Капини 20 мл"
+    },
+    "cosmopolitan":{
+        "descOne" : "Водка 40 мл",
+        "descTwo": "Ликер од Портокал 20 мл",
+        "descThree": "Сок од Лимета 20 мл",
+        "descFour": "Сок од Боровница 20 мл"
+    },
+    "smargarita":{
+        "descOne" : "Текила 40 мл",
+        "descTwo": "Ликер од Портокал 20 мл",
+        "descThree": "Сок од Лимета 20 мл",
+        "descFour": "Jalapeno",
+        "descFive": "Сол"
+    },
+    "gfather":{
+        "descOne" : "Виски 40 мл",
+        "descTwo": "Амарто 20 мл"
+    },
+    "vmartini":{
+        "descOne" : "Водка 40 мл",
+        "descTwo": "Вермут 20 мл"
+    },
+    "emartini":{
+        "descOne" : "Водка 40 мл",
+        "descTwo": "Еспресо 20 мл",
+        "descThree": "Шербет 10 мл",
+        "descFour": "Калуа 20 мл"
+    },
+    "negroni":{
+        "descOne" : "Џин 40 мл",
+        "descTwo": "Вермут 40 мл",
+        "descThree": "Кампари 40 мл"
     }
+    
 
 }
 
