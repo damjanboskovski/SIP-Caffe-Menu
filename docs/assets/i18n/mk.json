@@ -35,7 +35,7 @@
         "irish" : "Ирско Кафе",
         "nes" : "Нес Кафе",
         "nes_latte" : "Нес Кафе Вкус",
-        "fredo_ " : "Фредо Еспресо",
+        "fredo_espresso" : "Фредо Еспресо",
         "fredo_cappuccino" : "Фредо Капучино"
     },
     "decaf_page":{
@@ -207,7 +207,7 @@
         "descTwo": "Бел Рум 20 мл",
         "descThree": "Текила 20 мл",
         "descFour": "Џин 20 мл",
-        "descFive": "Ликер од Портокал 20 мл",
+        "descFive": "Трипл Сек 20 мл",
         "descSix": "Цеден Лимон 40 мл",
         "descSeven": "Кока Кола"
     },
@@ -268,11 +268,11 @@
         "descOne" : "Виски 40 мл",
         "descTwo": "Кафеав Шеќер 1 лажичка",
         "descThree": "Вода 2 лажички",
-        "descFour": "Angostura Bitters"
+        "descFour": "Горчлива Ангостура"
     },
     "margarita":{
         "descOne" : "Текила 40 мл",
-        "descTwo": "Ликер од Портокал 20 мл",
+        "descTwo": "Трипл Сек 20 мл",
         "descThree": "Сок од Лимета 20 мл",
         "descFour": "Сол"
     },
@@ -302,7 +302,7 @@
     "manhattan":{
         "descOne" : "Виски 40 мл",
         "descTwo": "Вермут 20 мл",
-        "descThree": "Angostura Bitters"
+        "descThree": "Горчлива Ангостура"
     },
     "campari":{
         "descOne" : "Кампари 40 мл",
@@ -317,13 +317,13 @@
     },
     "cosmopolitan":{
         "descOne" : "Водка 40 мл",
-        "descTwo": "Ликер од Портокал 20 мл",
+        "descTwo": "Трипл Сек 20 мл",
         "descThree": "Сок од Лимета 20 мл",
         "descFour": "Сок од Боровница 20 мл"
     },
     "smargarita":{
         "descOne" : "Текила 40 мл",
-        "descTwo": "Ликер од Портокал 20 мл",
+        "descTwo": "Трипл Сек 20 мл",
         "descThree": "Сок од Лимета 20 мл",
         "descFour": "Jalapeno",
         "descFive": "Сол"
