@@ -14,7 +14,9 @@
     "home_page":{
         "non_alcoholic" : "Безалкохолни Пијалоци",
         "alcoholic" : "Алкохолни Пијалоци",
-        "location" : "Локација"
+        "location" : "Локација",
+        "nuts" : "Апетисани",
+        "desserts" : "Десерти"
     },
     "nonalcoholic_page":{
         "coffee" : "Кафе",
@@ -47,12 +49,13 @@
     "water_page":{
         "small_rosa" : "Роса 0.33",
         "big_rosa" : "Роса 0.75",
-        "sparkling_small" : "Газирана 0.33",
-        "sparkling_big" : "Газирана 0.75"
+        "sparkling_small" : "Роса Газирана 0.33",
+        "sparkling_big" : "Роса Газирана 0.75"
     },
     "scjuice_page":{
         "orange" : "Портокал",
         "lemon" : "Лимон",
+        "citrus" : "Цитрон",
         "mix" : "Микс"
     },
     "soda_page":{
@@ -65,7 +68,9 @@
         "next" : "Некст Густ Сок",
         "san" : "Сан-Пелегрино",
         "icetea" : "Ледена Чај",
-        "cedevita" : "Цедевита"
+        "cedevita" : "Цедевита",
+        "grapefruit" : "Швепс Грејпфрут",
+        "oranzina": "Оранжина"
     },
     "hot_drinks_page":{
         "tea" : "Чај",
@@ -89,7 +94,11 @@
         "vermuth" : "Вермут",
         "cocktails" : "Коктели",
         "wine": "Вино",
-        "other": "Останато"
+        "other": "Останато",
+        "aperitiv": "Аперитиви",
+        "champagne": "Шампањ",
+        "paloma": "Палома",
+        "daiqiri": "Даикири"
     },
     "beer_page":{
         "skopsko" : "Скопско / Смут",
@@ -103,14 +112,18 @@
         "stock": "Шток"
     },
     "cognac_page":{
-        "badel": "Бадел"
+        "badel": "Бадел",
+        "hennesy": "Хенеси"
     },
     "rum_page":{
-        "captain": "Капетан Морган"
+        "captain": "Капетан Морган",
+        "bacardi": "Бакарди Бел"
     },
     "liker_page":{
         "baileys": "Бејлис",
-        "campari": "Кампари"
+        "campari": "Кампари",
+        "amareto": "Амарето",
+        "kahlua": "Калуа"
     },
     "degistive_page":{
         "pelin" : "Пелинковац",
@@ -118,6 +131,8 @@
     },
     "whiskey_page":{
         "jameson": "Џејмисон",
+        "jamesonipa": "Џејмисон Ипа",
+        "jamesonone": "Џејмисон 18",
         "walker_red": "Џони Волкер Ред",
         "walker_black": "Џони Волкер Блек",
         "walker_gold": "Џони Волкер Голд",
@@ -130,16 +145,23 @@
         "jack": "Џек Даниелс",
         "jack_honey": "Џек Даниелс Хани",
         "jack_apple": "Џек Даниелс Апле",
+        "jack_gentleman": "Џек Џентлмен",
+        "jack_mcl": "Џек Даниелс Мекларен",
         "tulamur": "Туламур",
-        "jim": "Џим Бим"
+        "jim": "Џим Бим",
+        "tenjaku": "Тенџаку",
+        "penny": "Пенипакер"
     },
     "vodka_page":{
         "smirnof": "Смирноф Ред",
         "absolut": "Абсолут",
-        "gray": "Грејгус"
+        "gray": "Грејгус",
+        "vigor": "Вигор",
+        "belvedere": "Белведере"
     },
     "gin_page":{
         "gordons": "Гордонс",
+        "gordonspink": "Гордонс Пинк",
         "beefeater": "Бифитер",
         "bombay": "Бомбај",
         "tanqueray": "Танкерај",
@@ -147,7 +169,8 @@
     },
     "vermuth_page":{
         "bianco" : "Мартини Бјанко",
-        "rosso" : "Мартини Росо"
+        "rosso" : "Мартини Росо",
+        "fiero" : "Мартини Фиеро"
     },
     "cocktails_page":{
         "long": "Лонг Ајленд",
@@ -175,7 +198,10 @@
         "vmartini": "Водка Мартини",
         "emartini": "Еспресо Мартини",
         "negroni": "Негрони",
-        "noalcohol": "Безалкохолен коктел"
+        "noalcohol": "Безалкохолен коктел",
+        "limoncelo": "Лимончело Шприц",
+        "paloma": "Палома",
+        "daiqiri": "Даикири"
     },
     "cocktails_card":{
         "ingredients": "Состојки",
@@ -184,7 +210,6 @@
     "wine_page":{
         "heat": "Греано Вино",
         "temjanika": "Темјаника",
-        "traminec": "Траминец",
         "aclassic": "Александрија Класик",
         "acuve": "Александрија Куве",
         "aclassicr": "Александрија Класик",
@@ -194,7 +219,14 @@
         "rdraft": "Црвено Вино",
         "white": "Бело Вино",
         "red": "Црвено Вино",
-        "draft": "Наливно Вино"
+        "draft": "Наливно Вино",
+        "rose": "Розе Вино",
+        "rosec": "Александрија Розе Класик",
+        "roseq": "Александрија Розе Куве",
+        "mara": "Тиквеш Луда Мара 0.75"
+    },
+    "champagne":{
+        "prosecco": "Просеко Чаша"
     },
     "location_page":{
         "workh": "Работно Време",
@@ -214,32 +246,27 @@
     "wsour":{
         "descOne" : "Виски 40 мл",
         "descTwo": "Цеден Лимон 40 мл",
-        "descThree": "Шербет 20 мл",
-        "descFour": "Белка од Јајце"
+        "descThree": "Шербет 20 мл"
     },
     "asour":{
         "descOne" : "Амарто 40 мл",
         "descTwo": "Цеден Лимон 40 мл",
-        "descThree": "Шербет 20 мл",
-        "descFour": "Белка од Јајце"
+        "descThree": "Шербет 20 мл"
     },
     "vsour":{
         "descOne" : "Водка 40 мл",
         "descTwo": "Цеден Лимон 40 мл",
-        "descThree": "Шербет 20 мл",
-        "descFour": "Белка од Јајце"
+        "descThree": "Шербет 20 мл"
     },
     "gsour":{
         "descOne" : "Џин 40 мл",
         "descTwo": "Цеден Лимон 40 мл",
-        "descThree": "Шербет 20 мл",
-        "descFour": "Белка од Јајце"
+        "descThree": "Шербет 20 мл"
     },
     "apsour":{
         "descOne" : "Аперол 40 мл",
         "descTwo": "Цеден Лимон 40 мл",
-        "descThree": "Шербет 20 мл",
-        "descFour": "Белка од Јајце"
+        "descThree": "Шербет 20 мл"
     },
     "tom":{
         "descOne" : "Џин 40 мл",
@@ -346,8 +373,44 @@
         "descOne" : "Џин 40 мл",
         "descTwo": "Вермут 40 мл",
         "descThree": "Кампари 40 мл"
+    },
+    "paloma":{
+        "descOne" : "Текила 40 мл",
+        "descTwo": "Цеден Лимон 20 мл",
+        "descThree": "Пинк Швепс"
+    },
+    "limoncelo":{
+        "descOne" : "Лимончело 40 мл",
+        "descTwo": "Пенливо Вино 100 мл",
+        "descThree": "Газирана Вода 50 мл"
+    },
+    "daiqiri":{
+        "descOne": "Бел Рум 40 мл",
+        "descTwo": "Цедена Лимета 40 мл",
+        "descThree": "Шербет 20 мл"
+    },
+    "other":{
+        "lozova": "Тиквеш Лозова",
+        "uzo": "Узо",
+        "mastika": "Мастика",
+        "trifun": "Бовин Св. Трифун",
+        "rubin": "Рубинов Вињак",
+        "tequila": "Текила"
+    },
+    "aperitiv":{
+        "aperol": "Аперол",
+        "limoncello": "Лимончело"
+    },
+    "nuts":{
+        "mixed": "Микс Апетисани"
+    },
+    "dessert":{
+        "ice": "Сладолед",
+        "scoopl": "Scoop Лешник",
+        "scoopj": "Scoop Јагода",
+        "scoopm": "Scoop Манго",
+        "scoopv": "Scoop Ванила",
+        "scoopb": "Scoop Белгиско Чоколадо"
     }
-    
-
 }
 

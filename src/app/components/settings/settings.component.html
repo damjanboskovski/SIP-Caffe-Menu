@@ -9,17 +9,17 @@
 
         <!-- Site Settings Menu Container -->
         @if(menuOpen){
-            <div #settingsMenuRef class="absolute right-0 bg-gray-800 text-white rounded-md shadow-lg p-2 w-64 z-50">
+            <div #settingsMenuRef class="absolute right-0 bg-[#393b26] text-white rounded-md shadow-lg p-2 w-64 z-50">
                 <!-- Site Language Options -->
                 <button (click)="toggleLanguageSettingState()"
-                    class="w-full flex flex-row justify-start gap-3 items-center py-2 px-4 hover:bg-gray-700"
-                    [ngClass]="{'bg-gray-700': settings.language.state }">
+                    class="w-full flex flex-row justify-start gap-3 items-center py-2 px-4 hover:bg-[#6d714a]"
+                    [ngClass]="{'bg-[#6d714a]': settings.language.state }">
                     🌐 <!-- Placeholder for language icon -->
                     <span class="select-none">{{ 'ui.language_settings' | translate }}</span>
                 </button>
 
                 @if(settings.language.state) {
-                    <div class="border-t border-gray-600 py-2">
+                    <div class="border-t border-gray-200 py-2">
                         @for(item of settings.language.available; track item;) {
                         <div class="flex flex-col px-4 py-2">
                             <label class="flex justify-between items-center cursor-pointer">

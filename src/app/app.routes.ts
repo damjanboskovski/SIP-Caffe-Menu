@@ -24,6 +24,10 @@ import { EnergyPageComponent } from './components/pages/energy-page/energy-page.
 import { HotDrinksPageComponent } from './components/pages/hot-drinks-page/hot-drinks-page.component';
 import { CocktailsPageComponent } from './components/pages/cocktails-page/cocktails-page.component';
 import { WinePageComponent } from './components/pages/wine-page/wine-page.component';
+import { AperitivPageComponent } from './components/pages/aperitiv-page/aperitiv-page.component';
+import { DessertsPageComponent } from './components/pages/desserts-page/desserts-page.component';
+import { NutsPageComponent } from './components/pages/nuts-page/nuts-page.component';
+import { ChampagnePageComponent } from './components/pages/champagne-page/champagne-page.component';
 
 export const routes: Routes = [
     {
@@ -121,6 +125,22 @@ export const routes: Routes = [
     {
         path: 'wine-page',
         component: WinePageComponent,
+    },
+    {
+        path: 'aperitiv-page',
+        component: AperitivPageComponent,
+    },
+    {
+        path: 'dessert-page',
+        component: DessertsPageComponent,
+    },
+    {
+        path: 'nuts-page',
+        component: NutsPageComponent,
+    },
+    {
+        path: 'champagne-page',
+        component: ChampagnePageComponent,
     }
 ];
 

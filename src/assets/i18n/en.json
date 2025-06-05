@@ -14,7 +14,9 @@
     "home_page": {
         "non_alcoholic": "Non-Alcoholic Beverages",
         "alcoholic": "Alcoholic Beverages",
-        "location": "Location"
+        "location": "Location",
+        "nuts": "Appetizers",
+        "desserts": "Desserts"
     },
     "nonalcoholic_page":{
         "coffee" : "Coffee",
@@ -47,12 +49,13 @@
     "water_page":{
         "small_rosa" : "Rosa 0.33",
         "big_rosa" : "Rosa 0.75",
-        "sparkling_small" : "Sparkling 0.33",
-        "sparkling_big" : "Sparkling 0.75"
+        "sparkling_small" : "Rosa Sparkling 0.33",
+        "sparkling_big" : "Rosa Sparkling 0.75"
     },
     "scjuice_page":{
         "orange" : "Orange",
         "lemon" : "Lemon",
+        "citrus" : "Grapefruit",
         "mix" : "Mix"
     },
     "soda_page":{
@@ -65,7 +68,9 @@
         "next" : "Next",
         "san" : "San-Pellegrino",
         "icetea" : "Ice Tea",
-        "cedevita" : "Cedevita"
+        "cedevita" : "Cedevita",
+        "grapefruit" : "Schweppes Grapefruit",
+        "oranzina": "Orangina"
     },
     "hot_drinks_page":{
         "tea" : "Tea",
@@ -89,7 +94,9 @@
         "vermuth" : "Vermuth",
         "cocktails" : "Cocktails",
         "wine": "Wine",
-        "other": "Other"
+        "other": "Other",
+        "aperitiv": "Aperitif",
+        "champagne": "Champagne"
     },
     "beer_page":{
         "skopsko" : "Skopsko / Smooth",
@@ -103,14 +110,18 @@
         "stock": "Stock"
     },
     "cognac_page":{
-        "badel": "Badel"
+        "badel": "Badel",
+        "hennesy": "Hennessy"
     },
     "rum_page":{
-        "captain": "Captain Morgan"
+        "captain": "Captain Morgan",
+        "bacardi": "Bacardi White"
     },
     "liker_page":{
         "baileys": "Baileys",
-        "campari": "Campari"
+        "campari": "Campari",
+        "amareto": "Amaretto",
+        "kahlua": "Kahlua"
     },
     "degistive_page":{
         "pelin" : "Pelinkovac",
@@ -118,6 +129,8 @@
     },
     "whiskey_page":{
         "jameson": "Jameson",
+        "jamesonipa": "Jameson IPA",
+        "jamesonone": "Jameson 18",
         "walker_red": "Johnnie Walker Red",
         "walker_black": "Johnnie Walker Black",
         "walker_gold": "Johnnie Walker Gold",
@@ -130,16 +143,23 @@
         "jack": "Jack Daniels",
         "jack_honey": "Jack Daniels Honey",
         "jack_apple": "Jack Daniels Apple",
+        "jack_gentleman": "Gentleman Jack",
+        "jack_mcl": "Jack Daniels McLaren",
         "tulamur": "Tullamore",
-        "jim": "Jim Beam"
+        "jim": "Jim Beam",
+        "tenjaku": "Tenjaku",
+        "penny": "Pennypacker"
     },
     "vodka_page":{
         "smirnof": "Smirnoff Red",
         "absolut": "Absolut",
-        "gray": "Gray Goose"
+        "gray": "Gray Goose",
+        "vigor": "Vigor",
+        "belvedere": "Belvedere"
     },
     "gin_page":{
         "gordons": "Gordon's",
+        "gordonspink": "Gordon's Pink",
         "beefeater": "Beefeater",
         "bombay": "Bombay",
         "tanqueray": "Tanqueray",
@@ -147,7 +167,8 @@
     },
     "vermuth_page":{
         "bianco" : "Martini Bianco",
-        "rosso" : "Martini Rosso"
+        "rosso" : "Martini Rosso",
+        "fiero" : "Martini Fiero"
     },
     "cocktails_page":{
         "long": "Long Island",
@@ -175,7 +196,10 @@
         "vmartini": "Vodka Martini",
         "emartini": "Espresso Martini",
         "negroni": "Negroni",
-        "noalcohol": "Virgin Cocktail"
+        "noalcohol": "Virgin Cocktail",
+        "limoncelo": "Limoncello Spritz",
+        "paloma": "Paloma",
+        "daiqiri": "Daiquiri"
     },
     "cocktails_card":{
         "ingredients": "Ingredients",
@@ -184,7 +208,6 @@
     "wine_page":{
         "heat": "Heated Red Wine",
         "temjanika": "Temjanika",
-        "traminec": "Traminec",
         "aclassic": "Alexandria Classic",
         "acuve": "Alexandria Cuvee",
         "aclassicr": "Alexandria Classic",
@@ -194,7 +217,14 @@
         "rdraft": "Red Wine",
         "white" : "White Wine",
         "red" : "Red Wine",
-        "draft": "Draft Wine"
+        "draft": "Draft Wine",
+        "rose": "Rose Wine",
+        "rosec": "Alexandria Rose Classic",
+        "roseq": "Alexandria Rose Cuvee",
+        "mara": "Tikves Luda Mara Temjanika 0.75"
+    },
+    "champagne":{
+        "prosecco": "Prosecco Glass"
     },
     "location_page":{
         "workh": "Working Hours",
@@ -257,8 +287,7 @@
     "aperol":{
         "descOne" : "Aperol 40 ml",
         "descTwo": "Sparkling Wine 100 ml",
-        "descThree": "Sparkling Water 50 ml",
-        "descFour": "Orange Slice"
+        "descThree": "Sparkling Water 50 ml"
     },
     "cuba":{
         "descOne" : "White Rum 40 ml",
@@ -347,5 +376,43 @@
         "descOne" : "Gin 40 ml",
         "descTwo": "Sweet Vermouth 40 ml",
         "descThree": "Campari 40 ml"
+    },
+    "limoncelo":{
+        "descOne" : "Limoncello 40 ml",
+        "descTwo": "Sparkling Wine 100 ml",
+        "descThree": "Sparkling Water 50 ml"
+    },
+    "paloma":{
+        "descOne": "Tequila 40 ml",
+        "descTwo": "Lemon Juice 20 ml",
+        "descThree": "Pink Schweppes"
+    },
+    "daiqiri":{
+        "descOne": "White Rum 40ml",
+        "descTwo": "Lemon Juice 40 ml",
+        "descThree": "Simple Syrup 20 ml"
+    },
+    "other":{
+        "lozova": "Tikves Lozova",
+        "uzo": "Uzo 12",
+        "mastika": "Mastika",
+        "trifun": "Bovin Sv. Trifun",
+        "rubin": "Rubinov Vinjak",
+        "tequila": "Tequila"
+    },
+    "aperitiv":{
+        "aperol": "Aperol",
+        "limoncello": "Limoncello"
+    },
+    "nuts":{
+        "mixed": "Mixed Nuts"
+    },
+    "dessert":{
+        "ice": "Ice Cream",
+        "scoopl": "Scoop Hazelnut",
+        "scoopj": "Scoop Strawberry",
+        "scoopm": "Scoop Mango",
+        "scoopv": "Scoop Vanilla",
+        "scoopb": "Scoop Belgian Chocolate"
     }
 }
