@@ -16,7 +16,8 @@
         "alcoholic": "Alcoholic Beverages",
         "location": "Location",
         "nuts": "Appetizers",
-        "desserts": "Desserts"
+        "desserts": "Desserts",
+        "serving-board": "Serving Boards"
     },
     "nonalcoholic_page":{
         "coffee" : "Coffee",
@@ -36,15 +37,18 @@
         "latte" : "Latte",
         "irish" : "Irish Coffee",
         "nes" : "Nescafe",
-        "nes_latte" : "Nescafe Latte",
         "fredo_espresso" : "Fredo Espresso",
-        "fredo_cappuccino" : "Fredo Cappuccino"
+        "fredo_cappuccino" : "Fredo Cappuccino",
+        "afogato" : "Affogato",
+        "etonic" : "Espresso Tonic",
+        "eorange" : "Espresso Orange"
     },
     "decaf_page":{
         "espresso" : "Espresso",
         "small_macchiato" : "Small Macchiato",
         "big_macchiato" : "Big Macchiato",
-        "cappuccino" : "Cappuccino"
+        "cappuccino" : "Cappuccino",
+        "deafogato" : "Affogato"
     },
     "water_page":{
         "small_rosa" : "Rosa 0.33",
@@ -104,7 +108,9 @@
         "skopsko_draft_big" : "Skopsko Draft 0.5",
         "amstel" : "Amstel",
         "haineken" : "Heineken",
-        "corona" : "Corona"
+        "corona" : "Corona",
+        "moreti": "Birra Moretti",
+        "sol": "Sol"
     },
     "brandy_page":{
         "stock": "Stock"
@@ -125,6 +131,7 @@
     },
     "degistive_page":{
         "pelin" : "Pelinkovac",
+        "pelina": "Pelinkovac Antique",
         "jeger" : "Jegermeister"
     },
     "whiskey_page":{
@@ -147,14 +154,12 @@
         "jack_mcl": "Jack Daniels McLaren",
         "tulamur": "Tullamore",
         "jim": "Jim Beam",
-        "tenjaku": "Tenjaku",
-        "penny": "Pennypacker"
+        "tenjaku": "Tenjaku"
     },
     "vodka_page":{
         "smirnof": "Smirnoff Red",
         "absolut": "Absolut",
         "gray": "Gray Goose",
-        "vigor": "Vigor",
         "belvedere": "Belvedere"
     },
     "gin_page":{
@@ -172,13 +177,15 @@
     },
     "cocktails_page":{
         "long": "Long Island",
+        "gintonic": "Gin Tonic",
         "wsour": "Whiskey Sour",
         "asour": "Amaretto Sour",
         "vsour": "Vodka Sour",
         "gsour": "Gin Sour",
         "apsour": "Aperol Sour",
         "tom": "Tom Collins",
-        "mohito": "Mohito",
+        "mohito": "Mojito",
+        "smohito": "Strawberry Mojito",
         "aperol": "Aperol Spritz",
         "cuba": "Cuba Libre",
         "old": "Old Fashioned",
@@ -199,7 +206,10 @@
         "noalcohol": "Virgin Cocktail",
         "limoncelo": "Limoncello Spritz",
         "paloma": "Paloma",
-        "daiqiri": "Daiquiri"
+        "daiqiri": "Daiquiri",
+        "psmartini": "Porn Star Martini",
+        "psdaiqiri": "Passion Fruit Daiquiri",
+        "aperolaffair": "Aperol Affair"
     },
     "cocktails_card":{
         "ingredients": "Ingredients",
@@ -283,6 +293,14 @@
         "descThree": "Brown Sugar 2 tsp",
         "descFour": "Mint Leaves",
         "descFive": "Sparkling Water"
+    },
+    "smohito":{
+        "descOne" : "White Rum 40 ml",
+        "descTwo": "Lime",
+        "descThree": "Brown Sugar 2 tsp",
+        "descFour": "Mint Leaves",
+        "descFive": "Sparkling Water",
+        "descSix": "Strawberries Syrup 20 ml"
     },
     "aperol":{
         "descOne" : "Aperol 40 ml",
@@ -388,9 +406,29 @@
         "descThree": "Pink Schweppes"
     },
     "daiqiri":{
-        "descOne": "White Rum 40ml",
+        "descOne": "White Rum 40 ml",
         "descTwo": "Lemon Juice 40 ml",
         "descThree": "Simple Syrup 20 ml"
+    },
+    "psmartini":{
+        "descOne": "Vodka 40 ml",
+        "descTwo": "Passion Fruit 20 ml",
+        "descThree": "Lime Juice 20 ml",
+        "descFour": "Simple Syrup 10 ml"
+    },
+    "psdaiqiri":{
+        "descOne": "White Rum 40 ml",
+        "descTwo": "Passion Fruit 20 ml",
+        "descThree": "Lime Juice 20 ml",
+        "descFour": "Simple Syrup 10 ml"
+    },
+    "aperolaffair":{
+        "descOne": "Aperol 40 ml",
+        "descTwo": "Secret SIP Spirit 160 ml"
+    },
+    "gintonic":{
+        "descOne": "Gin 40 ml",
+        "descTwo": "Tonic 150 ml"
     },
     "other":{
         "lozova": "Tikves Lozova",
@@ -414,5 +452,8 @@
         "scoopm": "Scoop Mango",
         "scoopv": "Scoop Vanilla",
         "scoopb": "Scoop Belgian Chocolate"
+    },
+    "serving_board":{
+        "cold": "Cold Serving Board"
     }
 }

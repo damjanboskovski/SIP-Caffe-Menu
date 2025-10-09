@@ -16,7 +16,8 @@
         "alcoholic" : "Алкохолни Пијалоци",
         "location" : "Локација",
         "nuts" : "Апетисани",
-        "desserts" : "Десерти"
+        "desserts" : "Десерти",
+        "serving-board" : "Мезе"
     },
     "nonalcoholic_page":{
         "coffee" : "Кафе",
@@ -36,15 +37,18 @@
         "latte" : "Лате",
         "irish" : "Ирско Кафе",
         "nes" : "Нес Кафе",
-        "nes_latte" : "Нес Кафе Вкус",
         "fredo_espresso" : "Фредо Еспресо",
-        "fredo_cappuccino" : "Фредо Капучино"
+        "fredo_cappuccino" : "Фредо Капучино",
+        "afogato" : "Афогато",
+        "etonic" : "Еспресо Тоник",
+        "eorange" : "Еспресо Портокал"
     },
     "decaf_page":{
         "espresso" : "Еспресо",
         "small_macchiato" : "Мало Макијато",
         "big_macchiato" : "Големо Макијато",
-        "cappuccino" : "Капучино"
+        "cappuccino" : "Капучино",
+        "deafogato" : "Афогато"
     },
     "water_page":{
         "small_rosa" : "Роса 0.33",
@@ -89,7 +93,7 @@
         "liker" : "Ликер",
         "digestive" : "Дигестиви",
         "whiskey" : "Виски",
-        "vodka" : "Вотка",
+        "vodka" : "Водка",
         "gin" : "Џин",
         "vermuth" : "Вермут",
         "cocktails" : "Коктели",
@@ -106,7 +110,9 @@
         "skopsko_draft_big" : "Скопско Точено 0.5",
         "amstel" : "Амстел",
         "haineken" : "Хајнекен",
-        "corona" : "Коронa"
+        "corona" : "Коронa",
+        "moreti" : "Бира Морети",
+        "sol" : "Сол"
     },
     "brandy_page":{
         "stock": "Шток"
@@ -127,6 +133,7 @@
     },
     "degistive_page":{
         "pelin" : "Пелинковац",
+        "pelina": "Пелинковац Антик",
         "jeger" : "Јегермаистер"
     },
     "whiskey_page":{
@@ -149,14 +156,12 @@
         "jack_mcl": "Џек Даниелс Мекларен",
         "tulamur": "Туламур",
         "jim": "Џим Бим",
-        "tenjaku": "Тенџаку",
-        "penny": "Пенипакер"
+        "tenjaku": "Тенџаку"
     },
     "vodka_page":{
         "smirnof": "Смирноф Ред",
         "absolut": "Абсолут",
         "gray": "Грејгус",
-        "vigor": "Вигор",
         "belvedere": "Белведере"
     },
     "gin_page":{
@@ -175,12 +180,14 @@
     "cocktails_page":{
         "long": "Лонг Ајленд",
         "wsour": "Виски Саур",
+        "gintonic": "Џин Тоник",
         "asour": "Амарето Саур",
         "vsour": "Водка Саур",
         "gsour": "Џин Саур",
         "apsour": "Аперол Саур",
         "tom": "Том Колинс",
         "mohito": "Мохито",
+        "smohito": "Мохито со Јагода",
         "aperol": "Аперол Шприц",
         "cuba": "Куба Либре",
         "old": "Олд Фешн",
@@ -201,7 +208,10 @@
         "noalcohol": "Безалкохолен коктел",
         "limoncelo": "Лимончело Шприц",
         "paloma": "Палома",
-        "daiqiri": "Даикири"
+        "daiqiri": "Даикири",
+        "psmartini": "Порн Стар Мартини",
+        "psdaiqiri": "Пешнфрут Даикири",
+        "aperolaffair": "Аперол Афер"
     },
     "cocktails_card":{
         "ingredients": "Состојки",
@@ -280,6 +290,14 @@
         "descThree": "Кафеав Шеќер 2 лажички",
         "descFour": "Ливчиња од Нане",
         "descFive": "Газирана Вода"
+    },
+    "smohito":{
+        "descOne" : "Бел Рум 40 мл",
+        "descTwo": "Лимета",
+        "descThree": "Кафеав Шеќер 2 лажички",
+        "descFour": "Ливчиња од Нане",
+        "descFive": "Газирана Вода",
+        "descSix": "Сируп од Јагода 20 мл"
     },
     "aperol":{
         "descOne" : "Aperol 40 мл",
@@ -389,6 +407,26 @@
         "descTwo": "Цедена Лимета 40 мл",
         "descThree": "Шербет 20 мл"
     },
+    "psmartini":{
+        "descOne": "Водка 40 мл",
+        "descTwo": "Пешнфрут 20 мл",
+        "descThree": "Цеден Лимон 20 мл",
+        "descFour": "Шербет 10 мл"
+    },
+    "psdaiqiri":{
+        "descOne": "Бел Рум 40 мл",
+        "descTwo": "Пешнфрут 20 мл",
+        "descThree": "Цеден Лимон 20 мл",
+        "descFour": "Шербет 10 мл"
+    },
+    "aperolaffair":{
+        "descOne": "Aperol 40 мл",
+        "descTwo": "Таинствено 160 мл"
+    },
+    "gintonic":{
+        "descOne": "Џин 40 мл",
+        "descTwo": "Тоник 150 мл"
+    },
     "other":{
         "lozova": "Тиквеш Лозова",
         "uzo": "Узо",
@@ -411,6 +449,9 @@
         "scoopm": "Scoop Манго",
         "scoopv": "Scoop Ванила",
         "scoopb": "Scoop Белгиско Чоколадо"
+    },
+    "serving_board":{
+        "cold": "Ладно Мезе"
     }
 }
 

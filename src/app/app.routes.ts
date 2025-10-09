@@ -28,6 +28,7 @@ import { AperitivPageComponent } from './components/pages/aperitiv-page/aperitiv
 import { DessertsPageComponent } from './components/pages/desserts-page/desserts-page.component';
 import { NutsPageComponent } from './components/pages/nuts-page/nuts-page.component';
 import { ChampagnePageComponent } from './components/pages/champagne-page/champagne-page.component';
+import { ServingBoardsComponent } from './components/pages/serving-boards/serving-boards.component';
 
 export const routes: Routes = [
     {
@@ -141,6 +142,10 @@ export const routes: Routes = [
     {
         path: 'champagne-page',
         component: ChampagnePageComponent,
+    },
+    {
+        path: 'serving-boards',
+        component: ServingBoardsComponent,
     }
 ];
 
