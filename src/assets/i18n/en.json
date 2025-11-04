@@ -37,6 +37,7 @@
         "latte" : "Latte",
         "irish" : "Irish Coffee",
         "nes" : "Nescafe",
+        "nest" : "Nescafe Latte",
         "fredo_espresso" : "Fredo Espresso",
         "fredo_cappuccino" : "Fredo Cappuccino",
         "afogato" : "Affogato",
@@ -63,18 +64,18 @@
         "mix" : "Mix"
     },
     "soda_page":{
-        "cola" : "Coca Cola / Zero",
-        "tonic": "Schweppes Tonic",
-        "bitter": "Schweppes Bitter",
-        "orange" : "Schweppes Tangerine",
-        "sprite" : "Sprite",
-        "fanta" : "Fanta",
-        "next" : "Next",
-        "san" : "San-Pellegrino",
-        "icetea" : "Ice Tea",
-        "cedevita" : "Cedevita",
-        "grapefruit" : "Schweppes Grapefruit",
-        "oranzina": "Orangina"
+        "cola" : "Coca Cola / Zero 0.25ml",
+        "tonic": "Schweppes Tonic 0.25ml",
+        "bitter": "Schweppes Bitter 0.25ml",
+        "orange" : "Schweppes Tangerine 0.25ml",
+        "grapefruit" : "Schweppes Grapefruit 0.25ml",
+        "sprite" : "Sprite 0.25ml",
+        "fanta" : "Fanta 0.25ml",
+        "next" : "Next 0.2ml",
+        "san" : "San-Pellegrino 0.33ml",
+        "icetea" : "Ice Tea 0.25ml",
+        "cedevita" : "Cedevita 19g",
+        "oranzina": "Orangina 0.25ml"
     },
     "hot_drinks_page":{
         "tea" : "Tea",
@@ -83,14 +84,14 @@
         "chocolate" : "Hot Chocolate"
     },
     "energy_page": {
-        "redbull" : "Red-Bull"
+        "redbull" : "Red-Bull 0.25ml"
     },
     "alcoholic_page": {
         "beer" : "Beer",
         "brandy" : "Brandy",
         "cognac" : "Cognac",
         "rum" : "Rum",
-        "liker" : "Liker",
+        "liker" : "Liqueur",
         "digestive" : "Digestive",
         "whiskey" : "Whiskey",
         "vodka" : "Vodka",
@@ -103,77 +104,79 @@
         "champagne": "Champagne"
     },
     "beer_page":{
-        "skopsko" : "Skopsko / Smooth",
+        "skopsko" : "Skopsko / Smooth 0.33",
         "skopsko_draft_small" : "Skopsko Draft 0.33",
         "skopsko_draft_big" : "Skopsko Draft 0.5",
-        "amstel" : "Amstel",
-        "haineken" : "Heineken",
-        "corona" : "Corona",
-        "moreti": "Birra Moretti",
-        "sol": "Sol"
+        "amstel" : "Amstel 0.33",
+        "haineken" : "Heineken 0.25",
+        "corona" : "Corona 0.33",
+        "moreti": "Birra Moretti 0.4",
+        "sol": "Sol 0.33"
     },
     "brandy_page":{
-        "stock": "Stock"
+        "stock": "Stock 0.4"
     },
     "cognac_page":{
-        "badel": "Badel",
-        "hennesy": "Hennessy"
+        "badel": "Badel 0.4",
+        "hennesy": "Hennessy 0.4"
     },
     "rum_page":{
-        "captain": "Captain Morgan",
-        "bacardi": "Bacardi White"
+        "captain": "Captain Morgan 0.4",
+        "bacardi": "Bacardi White 0.4"
     },
     "liker_page":{
-        "baileys": "Baileys",
-        "campari": "Campari",
-        "amareto": "Amaretto",
-        "kahlua": "Kahlua"
+        "baileys": "Baileys 0.4",
+        "campari": "Campari 0.4",
+        "amareto": "Amaretto 0.4",
+        "kahlua": "Kahlua 0.4",
+        "bajadera": "Cream Liqueur - Bajadera 0.4",
+        "southern": "Southern Comfort 0.4"
     },
     "degistive_page":{
-        "pelin" : "Pelinkovac",
-        "pelina": "Pelinkovac Antique",
-        "jeger" : "Jegermeister"
+        "pelin" : "Pelinkovac 0.4",
+        "pelina": "Pelinkovac Antique 0.4",
+        "jeger" : "Jegermeister 0.4"
     },
     "whiskey_page":{
-        "jameson": "Jameson",
-        "jamesonipa": "Jameson IPA",
-        "jamesonone": "Jameson 18",
-        "walker_red": "Johnnie Walker Red",
-        "walker_black": "Johnnie Walker Black",
-        "walker_gold": "Johnnie Walker Gold",
-        "jb": "JB",
-        "balentine": "Ballantines",
-        "bushmils": "Bushmills",
-        "almost_arrested": "Four Rouses",
-        "chivas": "Chivas",
-        "chivas_f": "Chivas 15",
-        "jack": "Jack Daniels",
-        "jack_honey": "Jack Daniels Honey",
-        "jack_apple": "Jack Daniels Apple",
-        "jack_gentleman": "Gentleman Jack",
-        "jack_mcl": "Jack Daniels McLaren",
-        "tulamur": "Tullamore",
-        "jim": "Jim Beam",
-        "tenjaku": "Tenjaku"
+        "jameson": "Jameson 0.4",
+        "jamesonipa": "Jameson IPA 0.4",
+        "jamesonone": "Jameson 18 0.4",
+        "walker_red": "Johnnie Walker Red 0.4",
+        "walker_black": "Johnnie Walker Black 0.4",
+        "walker_gold": "Johnnie Walker Gold 0.4",
+        "jb": "JB 0.4",
+        "balentine": "Ballantines 0.4",
+        "bushmils": "Bushmills 0.4",
+        "almost_arrested": "Four Rouses 0.4",
+        "chivas": "Chivas 0.4",
+        "chivas_f": "Chivas 15 0.4",
+        "jack": "Jack Daniels 0.4",
+        "jack_honey": "Jack Daniels Honey 0.4",
+        "jack_apple": "Jack Daniels Apple 0.4",
+        "jack_gentleman": "Gentleman Jack 0.4",
+        "jack_mcl": "Jack Daniels McLaren 0.4",
+        "tulamur": "Tullamore 0.4",
+        "jim": "Jim Beam 0.4",
+        "tenjaku": "Tenjaku 0.4"
     },
     "vodka_page":{
-        "smirnof": "Smirnoff Red",
-        "absolut": "Absolut",
-        "gray": "Gray Goose",
-        "belvedere": "Belvedere"
+        "smirnof": "Smirnoff Red 0.4",
+        "absolut": "Absolut 0.4",
+        "gray": "Gray Goose 0.4",
+        "belvedere": "Belvedere 0.4"
     },
     "gin_page":{
-        "gordons": "Gordon's",
-        "gordonspink": "Gordon's Pink",
-        "beefeater": "Beefeater",
-        "bombay": "Bombay",
-        "tanqueray": "Tanqueray",
-        "hendricks": "Hendricks"
+        "gordons": "Gordon's 0.4",
+        "gordonspink": "Gordon's Pink 0.4",
+        "beefeater": "Beefeater 0.4",
+        "bombay": "Bombay 0.4",
+        "tanqueray": "Tanqueray 0.4",
+        "hendricks": "Hendricks 0.4"
     },
     "vermuth_page":{
-        "bianco" : "Martini Bianco",
-        "rosso" : "Martini Rosso",
-        "fiero" : "Martini Fiero"
+        "bianco" : "Martini Bianco 0.4",
+        "rosso" : "Martini Rosso 0.4",
+        "fiero" : "Martini Fiero 0.4"
     },
     "cocktails_page":{
         "long": "Long Island",
@@ -216,25 +219,31 @@
         "close": "Close"
     },
     "wine_page":{
-        "heat": "Heated Red Wine",
-        "temjanika": "Temjanika",
-        "aclassic": "Alexandria Classic",
-        "acuve": "Alexandria Cuvee",
-        "aclassicr": "Alexandria Classic",
-        "acuver": "Alexandria Cuvee",
-        "tga": "T'GA",
-        "wdraft": "White Wine",
-        "rdraft": "Red Wine",
+        "heat": "Mulled Red Wine 200ml",
+        "temjanika": "Temjanika 0.187ml",
+        "aclassic": "Alexandria Classic 0.187ml",
+        "acuve": "Alexandria Cuvee 0.187ml",
+        "aclassicr": "Alexandria Classic 0.187ml",
+        "acuver": "Alexandria Cuvee 0.187ml",
+        "tga": "T'GA  0.187ml",
+        "wdraft": "White Wine 150ml",
+        "rdraft": "Red Wine 150ml",
         "white" : "White Wine",
         "red" : "Red Wine",
         "draft": "Draft Wine",
         "rose": "Rose Wine",
-        "rosec": "Alexandria Rose Classic",
-        "roseq": "Alexandria Rose Cuvee",
-        "mara": "Tikves Luda Mara Temjanika 0.75"
+        "rosec": "Alexandria Rose Classic 0.187ml",
+        "roseq": "Alexandria Rose Cuvee 0.187ml",
+        "mara": "Tikves Luda Mara Temjanika 0.75ml",
+        "redq": "Tikves Luda Mara Cuvee 0.75ml",
+        "tgab": "T'GA 0.75ml",
+        "lmm": "Tikves Luda Mara Merlot 0.75ml",
+        "ttemj": "Tikves Temjanika 0.75ml",
+        "aclassicb": "Alexandria Classic 0.75ml",
+        "acuveb": "Alexandria Cuvee 0.75ml"
     },
     "champagne":{
-        "prosecco": "Prosecco Glass"
+        "prosecco": "Prosecco Glass 150ml"
     },
     "location_page":{
         "workh": "Working Hours",
@@ -431,22 +440,22 @@
         "descTwo": "Tonic 150 ml"
     },
     "other":{
-        "lozova": "Tikves Lozova",
-        "uzo": "Uzo 12",
-        "mastika": "Mastika",
-        "trifun": "Bovin Sv. Trifun",
-        "rubin": "Rubinov Vinjak",
-        "tequila": "Tequila"
+        "lozova": "Tikves Lozova 0.4",
+        "uzo": "Uzo 12 0.4",
+        "mastika": "Mastika 0.4",
+        "trifun": "Bovin Sv. Trifun 0.4",
+        "rubin": "Rubinov Vinjak 0.4",
+        "tequila": "Tequila 0.4"
     },
     "aperitiv":{
-        "aperol": "Aperol",
-        "limoncello": "Limoncello"
+        "aperol": "Aperol 0.4",
+        "limoncello": "Limoncello 0.4"
     },
     "nuts":{
-        "mixed": "Mixed Nuts"
+        "mixed": "Mixed Nuts 100g"
     },
     "dessert":{
-        "ice": "Ice Cream",
+        "ice": "Ice Cream 120g",
         "scoopl": "Scoop Hazelnut",
         "scoopj": "Scoop Strawberry",
         "scoopm": "Scoop Mango",
