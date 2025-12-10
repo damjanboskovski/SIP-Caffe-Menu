@@ -4,11 +4,12 @@ import { NavBarComponent } from './components/ui/nav-bar/nav-bar.component';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 import { TranslateService } from '@ngx-translate/core';
 import { DbService } from './shared/services/db.service';
+import { SnowComponent } from './components/ui/snow/snow.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavBarComponent,],
+  imports: [RouterOutlet, NavBarComponent, SnowComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
   providers: [{provide : LocationStrategy, useClass: HashLocationStrategy}]
