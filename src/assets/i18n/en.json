@@ -109,6 +109,7 @@
         "skopsko_draft_big" : "Skopsko Draft 0.5",
         "amstel" : "Amstel 0.33",
         "haineken" : "Heineken 0.25",
+        "haineken_zero" : "Heineken 0.0 Non-Alcoholic 0.33",
         "corona" : "Corona 0.33",
         "moreti": "Birra Moretti 0.4",
         "sol": "Sol 0.33",
@@ -461,7 +462,11 @@
         "scoopj": "Scoop Strawberry",
         "scoopm": "Scoop Mango",
         "scoopv": "Scoop Vanilla",
-        "scoopb": "Scoop Belgian Chocolate"
+        "scoopb": "Scoop Belgian Chocolate",
+        "cheese": "CheeseCake 120g",
+        "cheesem": "Scoop Raspberry",
+        "cheesec": "Scoop Chocolate",
+        "cheeseb": "Scoop Bisquit"
     },
     "serving_board":{
         "cold": "Cold Serving Board"

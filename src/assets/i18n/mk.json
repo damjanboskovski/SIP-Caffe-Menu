@@ -111,6 +111,7 @@
         "skopsko_draft_big" : "Скопско Точено 0.5",
         "amstel" : "Амстел 0.33",
         "haineken" : "Хајнекен 0.25",
+        "haineken_zero" : "Хајнекен 0.0 Безалкохолен 0.33",
         "corona" : "Коронa 0.33",
         "moreti" : "Бира Морети 0.4",
         "sol" : "Сол 0.33",
@@ -458,7 +459,11 @@
         "scoopj": "Scoop Јагода",
         "scoopm": "Scoop Манго",
         "scoopv": "Scoop Ванила",
-        "scoopb": "Scoop Белгиско Чоколадо"
+        "scoopb": "Scoop Белгиско Чоколадо",
+        "cheese": "Чизкејк 120г",
+        "cheesem": "Scoop Малина",
+        "cheesec": "Scoop Чоколадо",
+        "cheeseb": "Scoop Бисквит"
     },
     "serving_board":{
         "cold": "Ладно Мезе"
