@@ -9,7 +9,7 @@
     },
     "foot_bar":{
         "creator" : "Created by:",
-        "name" : "Damjan Boshkovski"
+        "name" : "DaMenus"
     },
     "home_page": {
         "non_alcoholic": "Non-Alcoholic Beverages",
@@ -55,7 +55,9 @@
         "small_rosa" : "Rosa 0.33",
         "big_rosa" : "Rosa 0.75",
         "sparkling_small" : "Rosa Sparkling 0.33",
-        "sparkling_big" : "Rosa Sparkling 0.75"
+        "sparkling_big" : "Rosa Sparkling 0.75",
+        "dobra_velnes" : "Dobra Voda 0.25 - Wellness",
+        "dobra_aktiv": "Dobra Voda 0.25 - Active"
     },
     "scjuice_page":{
         "orange" : "Orange",
@@ -64,18 +66,18 @@
         "mix" : "Mix"
     },
     "soda_page":{
-        "cola" : "Coca Cola / Zero 0.25ml",
-        "tonic": "Schweppes Tonic 0.25ml",
-        "bitter": "Schweppes Bitter 0.25ml",
-        "orange" : "Schweppes Tangerine 0.25ml",
-        "grapefruit" : "Schweppes Grapefruit 0.25ml",
-        "sprite" : "Sprite 0.25ml",
-        "fanta" : "Fanta 0.25ml",
-        "next" : "Next 0.2ml",
-        "san" : "San-Pellegrino 0.33ml",
-        "icetea" : "Ice Tea 0.25ml",
+        "cola" : "Coca Cola / Zero 0.25",
+        "tonic": "Schweppes Tonic 0.25",
+        "bitter": "Schweppes Bitter 0.25",
+        "orange" : "Schweppes Tangerine 0.25",
+        "grapefruit" : "Schweppes Grapefruit 0.25",
+        "sprite" : "Sprite 0.25",
+        "fanta" : "Fanta 0.25",
+        "next" : "Next 0.2",
+        "san" : "San-Pellegrino 0.33",
+        "icetea" : "Ice Tea 0.25",
         "cedevita" : "Cedevita 19g",
-        "oranzina": "Orangina 0.25ml"
+        "oranzina": "Orangina 0.25"
     },
     "hot_drinks_page":{
         "tea" : "Tea",
@@ -84,7 +86,7 @@
         "chocolate" : "Hot Chocolate"
     },
     "energy_page": {
-        "redbull" : "Red-Bull 0.25ml"
+        "redbull" : "Red-Bull 0.25"
     },
     "alcoholic_page": {
         "beer" : "Beer",
@@ -146,6 +148,7 @@
         "walker_red": "Johnnie Walker Red 0.4",
         "walker_black": "Johnnie Walker Black 0.4",
         "walker_gold": "Johnnie Walker Gold 0.4",
+        "walker_double_black": "Johnnie Walker Double Black 0.4",
         "jb": "JB 0.4",
         "balentine": "Ballantines 0.4",
         "bushmils": "Bushmills 0.4",
