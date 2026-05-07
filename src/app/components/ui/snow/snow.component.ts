@@ -7,9 +7,12 @@ import { Component, OnInit, Renderer2, ElementRef } from '@angular/core';
   styleUrl: './snow.component.scss'
 })
 export class SnowComponent implements OnInit {
-  emojiCollection = ['❆', '❄︎', '❅', '❆', '❆', '❄︎', '❅', '❆' ];
+  //emojiCollection = ['💐', '❤️', '💗', '💘', '🌹', '💖' ]; Valentine
+  // emojiCollection = [❄️💐❤️💗💘🌹💖]; '❆', '❄︎', '❅', '❆', '❆', '❄︎', '❅', '❆'
+  emojiCollection = ['🐰', '🐇', '🐣', '💐', '🌹', '🎀', '🥚', '🧺'];
   particles = 40;
   innerWidth = window.innerWidth;
+  innerHeight = window.innerHeight;
 
   constructor(private renderer: Renderer2, public el: ElementRef){}
 

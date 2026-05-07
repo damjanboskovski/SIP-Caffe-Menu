@@ -31,3 +31,37 @@
     animation-timing-function: linear, ease-in-out;
     animation-iteration-count: infinite, infinite;
 }
+
+.bunny{
+    color: #ffffff;
+    font-size: 1.2rem;
+    text-shadow: 0 0 1px #00bcd4;
+    position: fixed;
+    top: -15%;
+    z-index: 9999;
+    cursor: default;
+    animation-name: bunny-run, bunny-move;
+    animation-timing-function: linear, ease-in-out;
+    animation-iteration-count: infinite, infinite;
+}
+
+@keyframes bunny-run{
+    0%{
+        left: -50%;
+    }
+    100%{
+        left: 100%;
+    }
+}
+
+@keyframes bunny-move{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(-20px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
