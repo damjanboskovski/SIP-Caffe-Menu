@@ -55,7 +55,7 @@ ${t.map((r,i)=>`${i+1}) ${r.toString()}`).join(`
 >
 `),d(),p(11,"app-product-card",1),g(12,`
 >
-`),d()),t&2&&(u(),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.small_rosa")("price","90"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.big_rosa")("price","160"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.sparkling_small")("price","90"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.sparkling_big")("price","160"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.dobra_velnes")("price","100"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.dobra_aktiv")("price","100"))},dependencies:[A,R],encapsulation:2})};var ks=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=b({type:e,selectors:[["app-scjuice-page"]],decls:9,vars:12,consts:[[1,"pt-[2rem]"],[3,"imgPath","titleTranslationKey","price"]],template:function(t,r){t&1&&(D(0,"div",0),p(1,"app-product-card",1),g(2,`
+`),d()),t&2&&(u(),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.small_rosa")("price","90"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.big_rosa")("price","160"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.sparkling_small")("price","90"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.sparkling_big")("price","160"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.dobra_velnes")("price","100"),u(2),h("imgPath","assets/photos/water.png")("titleTranslationKey","water_page.dobra_aktiv")("price","100"))},dependencies:[A,R],encapsulation:2})};var ks=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=b({type:e,selectors:[["app-scjuice-page"]],decls:15,vars:21,consts:[[1,"pt-[2rem]"],[3,"imgPath","titleTranslationKey","price"]],template:function(t,r){t&1&&(D(0,"div",0),p(1,"app-product-card",1),g(2,`
 >
 `),d(),p(3,"app-product-card",1),g(4,`
 >
@@ -63,7 +63,13 @@ ${t.map((r,i)=>`${i+1}) ${r.toString()}`).join(`
 >
 `),d(),p(7,"app-product-card",1),g(8,`
 >
-`),d()),t&2&&(u(),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.orange")("price","180"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.lemon")("price","160"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.citrus")("price","180"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.mix")("price","200"))},dependencies:[A],encapsulation:2})};var Fs=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=b({type:e,selectors:[["app-soda-page"]],decls:25,vars:36,consts:[[1,"pt-[2rem]"],[3,"imgPath","titleTranslationKey","price"]],template:function(t,r){t&1&&(D(0,"div",0),p(1,"app-product-card",1),g(2,`
+`),d(),p(9,"app-product-card",1),g(10,`
+>
+`),d(),p(11,"app-product-card",1),g(12,`
+>
+`),d(),p(13,"app-product-card",1),g(14,`
+>
+`),d()),t&2&&(u(),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.orange")("price","180"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.lemon")("price","160"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.citrus")("price","180"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.mix")("price","200"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.carrot")("price","220"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.detox")("price","220"),u(2),h("imgPath","assets/photos/juice.png")("titleTranslationKey","scjuice_page.beetroot")("price","220"))},dependencies:[A],encapsulation:2})};var Fs=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=b({type:e,selectors:[["app-soda-page"]],decls:25,vars:36,consts:[[1,"pt-[2rem]"],[3,"imgPath","titleTranslationKey","price"]],template:function(t,r){t&1&&(D(0,"div",0),p(1,"app-product-card",1),g(2,`
 >
 `),d(),p(3,"app-product-card",1),g(4,`
 >

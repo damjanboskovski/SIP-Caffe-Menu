@@ -63,7 +63,10 @@
         "orange" : "Orange",
         "lemon" : "Lemon",
         "citrus" : "Grapefruit",
-        "mix" : "Mix"
+        "mix" : "Mix",
+        "carrot" : "Carrot",
+        "detox" : "Detox",
+        "beetroot" : "Beetroot Bust"
     },
     "soda_page":{
         "cola" : "Coca Cola / Zero 0.25",
