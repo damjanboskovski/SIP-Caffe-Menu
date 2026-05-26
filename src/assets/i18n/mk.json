@@ -108,7 +108,8 @@
         "aperitiv": "Аперитиви",
         "champagne": "Шампањ",
         "paloma": "Палома",
-        "daiqiri": "Даикири"
+        "daiqiri": "Даикири",
+        "hugo": "Хуго"
     },
     "beer_page":{
         "skopsko" : "Скопско / Смут 0.33",
@@ -442,6 +443,11 @@
     "gintonic":{
         "descOne": "Џин 40 мл",
         "descTwo": "Тоник 150 мл"
+    },
+    "hugo":{
+        "descOne" : "Бозел 40 мл",
+        "descTwo": "Пенливо Вино 100 мл",
+        "descThree": "Газирана Вода 50 мл"
     },
     "other":{
         "lozova": "Тиквеш Лозова 0.4",

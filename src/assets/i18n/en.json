@@ -446,6 +446,11 @@
         "descOne": "Gin 40 ml",
         "descTwo": "Tonic 150 ml"
     },
+    "hugo":{
+        "descOne" : "Elderflower 40 ml",
+        "descTwo": "Sparkling Wine 100 ml",
+        "descThree": "Sparkling Water 50 ml"
+    },
     "other":{
         "lozova": "Tikves Lozova 0.4",
         "uzo": "Uzo 12 0.4",
