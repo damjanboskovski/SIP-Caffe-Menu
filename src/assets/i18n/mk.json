@@ -108,8 +108,7 @@
         "aperitiv": "Аперитиви",
         "champagne": "Шампањ",
         "paloma": "Палома",
-        "daiqiri": "Даикири",
-        "hugo": "Хуго"
+        "daiqiri": "Даикири"
     },
     "beer_page":{
         "skopsko" : "Скопско / Смут 0.33",
@@ -222,7 +221,8 @@
         "daiqiri": "Даикири",
         "psmartini": "Порн Стар Мартини",
         "psdaiqiri": "Пешнфрут Даикири",
-        "aperolaffair": "Аперол Афер"
+        "aperolaffair": "Аперол Афер",
+        "hugo": "Хуго"
     },
     "cocktails_card":{
         "ingredients": "Состојки",

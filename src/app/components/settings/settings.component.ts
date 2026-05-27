@@ -21,7 +21,7 @@ import { DbKeys } from '../../shared/enums/db/db-keys.enum';
     TranslateModule
   ],
   templateUrl: './settings.component.html',
-  styleUrl: './settings.component.css'
+  styleUrl: './settings.component.scss'
 })
 export class SettingsComponent implements OnDestroy, AfterViewInit {
   @ViewChildren('settingsMenuRef') settingsMenuRefs!: QueryList<ElementRef>;

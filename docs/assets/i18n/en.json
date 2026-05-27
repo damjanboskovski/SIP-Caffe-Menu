@@ -219,7 +219,8 @@
         "daiqiri": "Daiquiri",
         "psmartini": "Porn Star Martini",
         "psdaiqiri": "Passion Fruit Daiquiri",
-        "aperolaffair": "Aperol Affair"
+        "aperolaffair": "Aperol Affair",
+        "hugo": "Hugo"
     },
     "cocktails_card":{
         "ingredients": "Ingredients",
@@ -445,6 +446,11 @@
     "gintonic":{
         "descOne": "Gin 40 ml",
         "descTwo": "Tonic 150 ml"
+    },
+    "hugo":{
+        "descOne" : "Elderflower 40 ml",
+        "descTwo": "Sparkling Wine 100 ml",
+        "descThree": "Sparkling Water 50 ml"
     },
     "other":{
         "lozova": "Tikves Lozova 0.4",
