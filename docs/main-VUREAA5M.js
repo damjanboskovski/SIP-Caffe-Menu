@@ -137,7 +137,7 @@ ${t.map((r,i)=>`${i+1}) ${r.toString()}`).join(`
 >
 `),d(),f(5,"app-product-card",1),g(6,`
 >
-`),d()),t&2&&(u(),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","degistive_page.pelin")("price","170"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","degistive_page.pelina")("price","220"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","degistive_page.jeger")("price","220"))},dependencies:[A,P],encapsulation:2})};var ha=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=b({type:e,selectors:[["app-other-page"]],decls:13,vars:18,consts:[[1,"pt-[2rem]"],[3,"imgPath","titleTranslationKey","price"]],template:function(t,r){t&1&&(D(0,"div",0),f(1,"app-product-card",1),g(2,`
+`),d()),t&2&&(u(),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","degistive_page.pelin")("price","170"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","degistive_page.pelina")("price","220"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","degistive_page.jeger")("price","220"))},dependencies:[A,P],encapsulation:2})};var ha=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=b({type:e,selectors:[["app-other-page"]],decls:15,vars:21,consts:[[1,"pt-[2rem]"],[3,"imgPath","titleTranslationKey","price"]],template:function(t,r){t&1&&(D(0,"div",0),f(1,"app-product-card",1),g(2,`
 >
 `),d(),f(3,"app-product-card",1),g(4,`
 >
@@ -149,7 +149,9 @@ ${t.map((r,i)=>`${i+1}) ${r.toString()}`).join(`
 >
 `),d(),f(11,"app-product-card",1),g(12,`
 >
-`),d()),t&2&&(u(),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.lozova")("price","120"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.uzo")("price","120"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.mastika")("price","120"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.trifun")("price","150"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.rubin")("price","180"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.tequila")("price","180"))},dependencies:[A],encapsulation:2})};var ga=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=b({type:e,selectors:[["app-whiskey-page"]],decls:45,vars:66,consts:[[1,"pt-[2rem]"],[3,"imgPath","titleTranslationKey","price"]],template:function(t,r){t&1&&(D(0,"div",0),f(1,"app-product-card",1),g(2,`
+`),d(),f(13,"app-product-card",1),g(14,`
+>
+`),d()),t&2&&(u(),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.lozova")("price","120"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.uzo")("price","120"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.mastika")("price","120"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.trifun")("price","150"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.rubin")("price","180"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.tequila")("price","180"),u(2),h("imgPath","assets/photos/whiskey.png")("titleTranslationKey","other.patron_tequila")("price","350"))},dependencies:[A],encapsulation:2})};var ga=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=b({type:e,selectors:[["app-whiskey-page"]],decls:45,vars:66,consts:[[1,"pt-[2rem]"],[3,"imgPath","titleTranslationKey","price"]],template:function(t,r){t&1&&(D(0,"div",0),f(1,"app-product-card",1),g(2,`
 >
 `),d(),f(3,"app-product-card",1),g(4,`
 >
