@@ -26,7 +26,8 @@
         "freshjuice" : "Цедени Сокови",
         "juice" : "Сокови",
         "hotdrinks" : "Топли Напитоци",
-        "energydrinks" : "Енергетски Пијалоци"
+        "energydrinks" : "Енергетски Пијалоци",
+        "matcha" : "Матча"
     },
     "coffe_page":{
         "espresso" : "Еспресо",
@@ -43,6 +44,14 @@
         "afogato" : "Афогато",
         "etonic" : "Еспресо Тоник",
         "eorange" : "Еспресо Портокал"
+    },
+    "matcha_page":{
+        "caramel" : "Матча со Карамела",
+        "white_chocolate" : "Матча со Бело Чоколадо",
+        "vanilla" : "Матча со Ванила",
+        "raspberry" : "Матча со Малина",
+        "strawberry" : "Матча со Јагода",
+        "passion_fruit" : "Матча со Пешнфрут"
     },
     "decaf_page":{
         "espresso" : "Еспресо",

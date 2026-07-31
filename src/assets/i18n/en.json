@@ -26,7 +26,8 @@
         "freshjuice" : "Fresh Juice",
         "juice" : "Juices",
         "hotdrinks" : "Hot Drinks",
-        "energydrinks" : "Energy Drinks"
+        "energydrinks" : "Energy Drinks",
+        "matcha" : "Matcha"
     },
     "coffe_page":{
         "espresso" : "Espresso",
@@ -43,6 +44,14 @@
         "afogato" : "Affogato",
         "etonic" : "Espresso Tonic",
         "eorange" : "Espresso Orange"
+    },
+    "matcha_page":{
+        "caramel" : "Caramel Matcha",
+        "white_chocolate" : "White Chocolate Matcha",
+        "vanilla" : "Vanilla Matcha",
+        "raspberry" : "Raspberry Matcha",
+        "strawberry" : "Strawberry Matcha",
+        "passion_fruit" : "Passion Fruit Matcha"
     },
     "decaf_page":{
         "espresso" : "Espresso",
