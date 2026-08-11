@@ -115,6 +115,7 @@
         "wine": "Wine",
         "other": "Other",
         "aperitiv": "Aperitif",
+        "tequila": "Tequila",
         "champagne": "Champagne"
     },
     "beer_page":{
@@ -466,9 +467,12 @@
         "uzo": "Uzo 12 0.4",
         "mastika": "Mastika 0.4",
         "trifun": "Bovin Sv. Trifun 0.4",
-        "rubin": "Rubinov Vinjak 0.4",
-        "tequila": "Tequila 0.4",
-        "patron_tequila": "Patron Tequila 0.4"
+        "rubin": "Rubinov Vinjak 0.4"
+    },
+    "tequila":{
+        "basic": "Tequila 0.4",
+        "patron_reposado": "Tequila Patron Reposado 0.4",
+        "patron_silver": "Tequila Patron Silver 0.4"
     },
     "aperitiv":{
         "aperol": "Aperol 0.4",

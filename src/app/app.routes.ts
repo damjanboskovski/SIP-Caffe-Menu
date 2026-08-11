@@ -30,6 +30,7 @@ import { NutsPageComponent } from './components/pages/nuts-page/nuts-page.compon
 import { ChampagnePageComponent } from './components/pages/champagne-page/champagne-page.component';
 import { ServingBoardsComponent } from './components/pages/serving-boards/serving-boards.component';
 import { MatchaPageComponent } from './components/pages/matcha-page/matcha-page.component';
+import { TequilaPageComponent } from './components/pages/tequila-page/tequila-page.component';
 
 export const routes: Routes = [
     {
@@ -151,6 +152,10 @@ export const routes: Routes = [
     {
         path: 'matcha-page',
         component: MatchaPageComponent,
+    },
+    {
+        path: 'tequila-page',
+        component: TequilaPageComponent,
     }
 ];
 
