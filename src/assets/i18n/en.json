@@ -230,7 +230,8 @@
         "psmartini": "Porn Star Martini",
         "psdaiqiri": "Passion Fruit Daiquiri",
         "aperolaffair": "Aperol Affair",
-        "hugo": "Hugo"
+        "hugo": "Hugo",
+        "frozen_margarita": "Frozen Margarita"
     },
     "cocktails_card":{
         "ingredients": "Ingredients",
@@ -461,6 +462,15 @@
         "descOne" : "Elderflower 40 ml",
         "descTwo": "Sparkling Wine 100 ml",
         "descThree": "Sparkling Water 50 ml"
+    },
+    "frozen_margarita":{
+        "descOne" : "Tequila 60 ml",
+        "descTwo": "Lime Juice 40 ml",
+        "descThree": "Flavored Puree (Monin) 40 ml",
+        "descFour": "   Mango",
+        "descFive": "   Kiwi",
+        "descSix": "   Strawberry",
+        "descSeven": "   Pineapple"
     },
     "other":{
         "lozova": "Tikves Lozova 0.4",

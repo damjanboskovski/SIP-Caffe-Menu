@@ -230,7 +230,8 @@
         "psmartini": "Порн Стар Мартини",
         "psdaiqiri": "Пешнфрут Даикири",
         "aperolaffair": "Аперол Афер",
-        "hugo": "Хуго"
+        "hugo": "Хуго",
+        "frozen_margarita": "Фрозен Маргарита"
     },
     "cocktails_card":{
         "ingredients": "Состојки",
@@ -456,6 +457,15 @@
         "descOne" : "Бозел 40 мл",
         "descTwo": "Пенливо Вино 100 мл",
         "descThree": "Газирана Вода 50 мл"
+    },
+    "frozen_margarita":{
+        "descOne" : "Текила 60 мл",
+        "descTwo": "Сок од Лимета 40 мл",
+        "descThree": "Пире Вкус (Монин) 40 мл",
+        "descFour": "   Манго",
+        "descFive": "   Киви",
+        "descSix": "   Јагода",
+        "descSeven": "   Ананас"
     },
     "other":{
         "lozova": "Тиквеш Лозова 0.4",
