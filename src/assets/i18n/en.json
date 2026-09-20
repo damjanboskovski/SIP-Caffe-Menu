@@ -231,7 +231,8 @@
         "psdaiqiri": "Passion Fruit Daiquiri",
         "aperolaffair": "Aperol Affair",
         "hugo": "Hugo",
-        "frozen_margarita": "Frozen Margarita"
+        "frozen_margarita": "Frozen Margarita",
+        "dirty_martini": "Dirty Martini"
     },
     "cocktails_card":{
         "ingredients": "Ingredients",
@@ -471,6 +472,11 @@
         "descFive": "   Kiwi",
         "descSix": "   Strawberry",
         "descSeven": "   Pineapple"
+    },
+    "dirty_martini":{
+        "descOne" : "Gin 40 ml",
+        "descTwo": "Vermouth 20 ml",
+        "descThree": "Olive Juice 20 ml"
     },
     "other":{
         "lozova": "Tikves Lozova 0.4",
