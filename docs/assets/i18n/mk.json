@@ -477,7 +477,8 @@
     "tequila":{
         "basic": "Текила 0.4",
         "patron_reposado": "Текила Патрон Репосадо 0.4",
-        "patron_silver": "Текила Патрон Силвер 0.4"
+        "patron_silver": "Текила Патрон Силвер 0.4",
+        "patron_alto": "Текила Патрон Ел Алто 0.4"
     },
     "aperitiv":{
         "aperol": "Аперол 0.4",

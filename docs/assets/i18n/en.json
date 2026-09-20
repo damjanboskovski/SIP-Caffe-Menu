@@ -482,7 +482,8 @@
     "tequila":{
         "basic": "Tequila 0.4",
         "patron_reposado": "Tequila Patron Reposado 0.4",
-        "patron_silver": "Tequila Patron Silver 0.4"
+        "patron_silver": "Tequila Patron Silver 0.4",
+        "patron_alto": "Tequila Patron El Alto 0.4"
     },
     "aperitiv":{
         "aperol": "Aperol 0.4",
