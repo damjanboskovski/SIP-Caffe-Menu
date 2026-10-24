@@ -72,10 +72,7 @@
         "orange" : "Orange",
         "lemon" : "Lemon",
         "citrus" : "Grapefruit",
-        "mix" : "Mix",
-        "carrot" : "Carrot",
-        "detox" : "Detox",
-        "beetroot" : "Beetroot Bust"
+        "mix" : "Mix"
     },
     "soda_page":{
         "cola" : "Coca Cola / Zero 0.25",
@@ -125,7 +122,6 @@
         "haineken" : "Heineken 0.25",
         "haineken_zero" : "Heineken 0.0 Non-Alcoholic 0.33",
         "corona" : "Corona 0.33",
-        "sol": "Sol 0.33",
         "skopsko_wajs": "Skopsko Weiss 0.5"
     },
     "brandy_page":{
@@ -260,7 +256,8 @@
         "lmm": "Tikves Luda Mara Merlot 0.75ml",
         "ttemj": "Tikves Temjanika 0.75ml",
         "aclassicb": "Alexandria Classic 0.75ml",
-        "acuveb": "Alexandria Cuvee 0.75ml"
+        "acuveb": "Alexandria Cuvee 0.75ml",
+        "rosecb": "Alexandria Rose Classic 0.75ml"
     },
     "champagne":{
         "prosecco": "Prosecco Glass 150ml"
@@ -482,8 +479,7 @@
         "lozova": "Tikves Lozova 0.4",
         "uzo": "Uzo 12 0.4",
         "mastika": "Mastika 0.4",
-        "trifun": "Bovin Sv. Trifun 0.4",
-        "rubin": "Rubinov Vinjak 0.4"
+        "trifun": "Bovin Sv. Trifun 0.4"
     },
     "tequila":{
         "basic": "Tequila 0.4",
