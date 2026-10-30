@@ -5,11 +5,12 @@ import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 import { TranslateService } from '@ngx-translate/core';
 import { DbService } from './shared/services/db.service';
 import { SnowComponent } from './components/ui/snow/snow.component';
+import { HalloweenComponent } from './components/ui/halloween/halloween.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavBarComponent, SnowComponent],
+  imports: [RouterOutlet, NavBarComponent, SnowComponent, HalloweenComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
   providers: [{provide : LocationStrategy, useClass: HashLocationStrategy}]
